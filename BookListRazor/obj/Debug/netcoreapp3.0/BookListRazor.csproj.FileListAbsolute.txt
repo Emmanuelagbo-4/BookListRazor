@@ -413,3 +413,4 @@ C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\BookListRazor\BookListRazo
 C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.0\Razor\Pages\BookList\Index.cshtml.g.cs
 C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.0\Razor\Pages\BookList\Create.cshtml.g.cs
 C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.0\Razor\Pages\BookList\Edit.cshtml.g.cs
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.0\Razor\Pages\BookList\Upsert.cshtml.g.cs
